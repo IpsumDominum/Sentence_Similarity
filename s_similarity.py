@@ -1,7 +1,3 @@
-from stat import S_ENFMT
-from xml.dom.minidom import Attr
-from click import progressbar
-from regex import E
 import torch
 from transformers import BertTokenizer, BertModel
 from transformers import OpenAIGPTTokenizer, OpenAIGPTModel, OpenAIGPTLMHeadModel
