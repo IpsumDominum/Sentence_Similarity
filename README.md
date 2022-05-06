@@ -80,7 +80,7 @@ Hi there, how are you?    |vs|    Have you read the book 1984? I haven't.
 tensor(0.6398)
 ```
 
-Word2Vec: 
+Word2Vec:  (Spacy default)
 
 ```
 =========
